@@ -18,6 +18,10 @@ This is a terminal-based Go Fish card game written in C, using linked lists for 
 - Players take turns asking for cards.
 - If a player gets 4 of a kind, it's counted as a "book".
 - The game continues until the deck and player hands are empty.
+- 
+## Author
+
+- Elizabeth Victoria Achom ([victoriaach0m](https://github.com/victoriaach0m))
 
 
 
